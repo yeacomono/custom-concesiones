@@ -1,0 +1,135 @@
+{
+ "cards_label": "Concesiones",
+ "category": "Modules",
+ "charts": [],
+ "creation": "2024-02-21 12:23:24.865396",
+ "developer_mode_only": 0,
+ "disable_user_customization": 1,
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "extends_another_page": 0,
+ "hide_custom": 1,
+ "icon": "quality",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "label": "Concesiones",
+ "links": [
+  {
+   "hidden": 0,
+   "is_inspection": 0,
+   "is_query_report": 0,
+   "label": "Servicio de Reparto",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_inspection": 0,
+   "is_query_report": 0,
+   "label": "Reparto",
+   "link_to": "Servicio de Reparto",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_inspection": 0,
+   "is_query_report": 0,
+   "label": "Solicitud de usuario ERP",
+   "link_to": "USUARIO CONCESIONARIO",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_inspection": 0,
+   "is_query_report": 0,
+   "label": "Concesiones",
+   "link_to": "",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_inspection": 0,
+   "is_query_report": 0,
+   "label": "Cuotas de ingresos",
+   "link_to": "Cuota de ingresos",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_inspection": 0,
+   "is_query_report": 0,
+   "label": "Contratos",
+   "link_to": "Contratos",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_inspection": 0,
+   "is_query_report": 0,
+   "label": "Penalidades",
+   "link_to": "Penalidades",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_inspection": 0,
+   "is_query_report": 0,
+   "label": "Liquidaciones",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_inspection": 0,
+   "is_query_report": 0,
+   "label": "Pago de comisiones",
+   "link_to": "Pago de comisiones",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_inspection": 0,
+   "is_query_report": 0,
+   "label": "Reporte",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_inspection": 0,
+   "is_query_report": 1,
+   "label": "Ventas de Abastecimiento Interno",
+   "link_to": "Ventas de Abastecimiento Interno",
+   "link_type": "Report",
+   "onboard": 1,
+   "type": "Link"
+  }
+ ],
+ "modified": "2024-06-06 20:33:26.454416",
+ "modified_by": "edsona@larael.pe",
+ "module": "Concesiones",
+ "name": "Concesiones",
+ "owner": "Administrator",
+ "pin_to_bottom": 0,
+ "pin_to_top": 0,
+ "shortcuts": [],
+ "shortcuts_label": "Rutas Alternas"
+}

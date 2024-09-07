@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include concesiones *.css
+recursive-include concesiones *.csv
+recursive-include concesiones *.html
+recursive-include concesiones *.ico
+recursive-include concesiones *.js
+recursive-include concesiones *.json
+recursive-include concesiones *.md
+recursive-include concesiones *.png
+recursive-include concesiones *.py
+recursive-include concesiones *.svg
+recursive-include concesiones *.txt
+recursive-exclude concesiones *.pyc
